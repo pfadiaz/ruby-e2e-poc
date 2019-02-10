@@ -1,5 +1,5 @@
 require 'selenium-webdriver'
-require_relative '../utils/puzzle/generateOutliner'
+require_relative '../utils/puzzle/generate-outliner'
 
 class FormPageElements
 
