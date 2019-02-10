@@ -1,7 +1,7 @@
 require 'rspec/autorun'
 require_relative '../fixtures/selectors'
 require_relative '../fixtures/test-data'
-require_relative '../utils/api/getUserEndpoint'
+require_relative '../utils/api/get-user-endpoint'
 
 test_data = TestData.new()
 api = User.new()
